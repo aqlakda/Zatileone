@@ -1,0 +1,57 @@
+{{ "breadcrumbs.css" | asset_url | stylesheet_tag }}
+
+{%- unless template == 'index' or template == 'cart' or template == 'list-collections' or template == '404' -%}
+{%- assign t = template | split: '.' | first -%}
+  <div class="page-width" id="breadcrumbs" style="padding-top:{{ section.settings.padding_top }}px;padding-bottom:{{ section.settings.padding_bottom }}px;">
+    <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      {%- case t -%}
+        {%- when "collection" -%}
+          {%- if collection.handle == "all" -%}
+            <li class="active">All Products</li>
+          {%- else -%}
+            <li class="active">{{ collection.title | split: " - " | last}}</li>
+          {%- endif -%}
+        {%- when "product" -%}
+          {%- if collection and collection.handle != "all" -%}
+            <li><a href="{{ collection.url }}">{{ collection.title | split: " - " | last}}</a></li>
+          {%- else -%}
+            <li><a href="/collections/all">All Products</a></li>
+          {%- endif -%}
+          <li class="active">{{ product.title | split: " - " | first }}</li>
+      {%- endcase -%}
+    </ul>
+  </div>
+{% endunless %}
+
+{% schema %}
+  {
+    "name": "Breadcrumbs",
+    "settings": [
+      {
+        "type": "range",
+        "id": "padding_top",
+        "label": "Padding Top",
+        "unit": "px",
+        "min": 0,
+        "max": 16,
+        "default": 0
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "label": "Padding Bottom",
+        "unit": "px",
+        "min": 0,
+        "max": 16,
+        "default": 0
+      }
+    ],
+    "tag" : "section",
+    "presets" : [
+      {
+        "name" : "Breadcrumbs"
+      }
+    ]
+  }
+{% endschema %}

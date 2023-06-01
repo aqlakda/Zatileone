@@ -1,0 +1,122 @@
+{{ "page-title.css" | asset_url | stylesheet_tag }}
+
+{%- style -%}
+
+  .custom__page-subtitle {
+    margin-top: 0;
+    font-size: 2.3rem;
+  }
+
+  .no-margin-bottom {
+    margin-bottom: 0;
+  }
+
+  @media screen and (min-width: 990px) {
+    .custom__page-subtitle, .custom__page-title {
+      padding-left: {{ section.settings.padding_left_desktop }}rem;
+    }
+  }
+
+  @media screen and (max-width: 990px) {
+    .custom__page-subtitle, .custom__page-title {
+      padding-left: {{ section.settings.padding_left_tablet }}rem;
+    }
+  }
+
+  @media screen and (max-width: 750px) {
+    .custom__page-subtitle, .custom__page-title {
+      padding-left: 0;
+    }
+  }
+
+  .custom__title {
+    text-align: {{ section.settings.alignment }};
+  }
+  
+{%- endstyle -%}
+
+<div class="page-width {% if section.settings.narrowed == "narrow" %}page-width--narrow{% endif %}">
+  <h1 class="h1 custom__page-title custom__title {% if section.settings.sub_title != blank %} no-margin-bottom{% endif %}">{{ section.settings.page_title }}</h1>
+  {%- if section.settings.sub_title != blank -%}<h2 class="custom__page-subtitle custom__title">{{ section.settings.sub_title }}</h2>{%- endif -%}
+</div>
+
+{% schema %}
+  {
+    "name": "Page Title",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+      {
+        "type": "text",
+        "label": "Title",
+        "id": "page_title"
+      },
+      {
+        "type": "text",
+        "label": "Sub Title",
+        "id": "sub_title"
+      },
+      {
+        "type": "range",
+        "id": "padding_left_desktop",
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "unit": "rem",
+        "label": "Padding Left Desktop",
+        "default": 0
+      },
+      {
+        "type": "range",
+        "id": "padding_left_tablet",
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "unit": "rem",
+        "label": "Padding Left Tablet",
+        "default": 0
+      },
+      {
+        "type": "select",
+        "id": "narrowed",
+        "options": [
+          {
+            "value": "narrow",
+            "label": "Narrow"
+          },
+          {
+            "value": "page_width",
+            "label": "Page Width"
+          }
+        ],
+        "default": "page_width",
+        "label": "Title Width"
+      },
+      {
+        "type": "select",
+        "id": "alignment",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          },
+          {
+            "value": "center",
+            "label": "Center"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "left",
+        "label": "Title Alignment"
+      }
+    ],
+    "presets" : [
+      {
+        "name" : "Page Title"
+      }
+    ]
+  }
+{% endschema %}

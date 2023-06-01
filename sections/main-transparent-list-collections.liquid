@@ -1,0 +1,66 @@
+{{ 'component-transparent-list.css' | asset_url | stylesheet_tag }}
+
+<div class="transparent-wrapper page-width isolate">
+    {%- if section.settings.heading != blank -%}
+      <h2 class="h1">
+        {{- section.settings.heading | escape -}}
+      </h2>
+    {%- endif -%}
+    <ul class="transparent-list">
+      {%- for block in section.blocks -%}
+          <li class="transparent-list-item">
+            <a href="{{ block.settings.collection.url }}" role="link">
+              <div class="content-wrapper">
+                  <img src="{{ block.settings.collection.featured_image | image_url }}" 
+                    alt="" height="150">
+                  <div class="transparent-layer">
+                      {%- if block.settings.title != blank -%}
+                        <div class="heading">
+                            {{- block.settings.title | escape -}}
+                        </div>
+                      {%- endif -%}
+                  </div>
+              </div> 
+            </a>
+          </li>
+      {%- endfor -%}
+    </ul>
+</div>
+
+{% schema %}
+  {
+    "name" : "Transparent Collection",
+    "tag" : "section",
+    "max_blocks" : 15,
+    "settings" : [
+      {
+        "type" : "text",
+        "id" : "heading",
+        "label" : "Heading"
+      }
+    ],
+    "blocks": [
+    {
+      "type": "featured_collection",
+      "name": "t:sections.collection-list.blocks.featured_collection.name",
+      "settings": [
+        {
+          "type": "collection",
+          "id": "collection",
+          "label": "t:sections.collection-list.blocks.featured_collection.settings.collection.label"
+        },
+        {
+          "type" : "text",
+          "id" : "title",
+          "label" : "Middle Text"
+        }
+      ]
+    }
+  ],
+    "presets" : [
+      {
+        "name" : "Transparent Collection"
+      }
+    ]
+  }
+{% endschema %}

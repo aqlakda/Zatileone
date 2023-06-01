@@ -1,0 +1,26 @@
+.footer__social {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 4;
+}
+
+.list-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.list-social__item .icon {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.list-social__link {
+  align-items: center;
+  display: flex;
+  color: rgb(var(--color-foreground));
+}
+
+.list-social__link:hover .icon {
+  transform: scale(1.07);
+}
