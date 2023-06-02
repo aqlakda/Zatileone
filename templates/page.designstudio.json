@@ -1,0 +1,25 @@
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "settings": {}
+      },
+      "26f490b3-d67d-4756-8b34-3a8f551c63fa": {
+        "type": "page-title",
+        "settings": {
+          "page_title": "Design Studio",
+          "sub_title": "",
+          "padding_left_desktop": 0,
+          "padding_left_tablet": 0,
+          "narrowed": "page_width",
+          "alignment": "left"
+        }
+      }
+  
+    },
+    "order": [
+      "main",
+      "26f490b3-d67d-4756-8b34-3a8f551c63fa",
+      "1e03e864-9f30-4910-9a9d-f318d282f253"
+    ]
+  }
