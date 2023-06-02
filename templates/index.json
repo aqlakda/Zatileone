@@ -1,1 +1,381 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"65a24ebc-aa45-4115-85d7-64570a6bdcb7":{"type":"heading","settings":{"heading":"Visualize & Create Quality Spaces","heading_size":"h0"}},"69460e34-ebb8-40db-8c0a-30926a72f2ae":{"type":"text","settings":{"text":"Pakistan's Tile & Design Hub","text_style":"body"}},"3f2e641c-978a-4dbd-b98e-59336eb248fb":{"type":"text","settings":{"text":"Shop our extensive selection of wall and floor tiles.","text_style":"body"}},"2c99a270-2094-4d69-985e-c8a7b840e3e6":{"type":"text","settings":{"text":"Everything in-stock, ready to ship","text_style":"body"}},"4eae6cfa-3be1-4005-9ad2-434d73aaf13e":{"type":"buttons","settings":{"button_label_1":"Catalogue","button_link_1":"shopify:\/\/collections\/all-tile","button_style_secondary_1":false,"button_label_2":"About Us","button_link_2":"shopify:\/\/pages\/about-us","button_style_secondary_2":false}}},"block_order":["65a24ebc-aa45-4115-85d7-64570a6bdcb7","69460e34-ebb8-40db-8c0a-30926a72f2ae","3f2e641c-978a-4dbd-b98e-59336eb248fb","2c99a270-2094-4d69-985e-c8a7b840e3e6","4eae6cfa-3be1-4005-9ad2-434d73aaf13e"],"settings":{"image":"shopify:\/\/shop_images\/Zatile_Banner_2.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"accent-2","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"16636709757b12aeba":{"type":"collection-list","blocks":{"16636709750ccb44c1-0":{"type":"featured_collection","settings":{"collection":"bathroom"}},"16636709750ccb44c1-1":{"type":"featured_collection","settings":{"collection":"kitchen"}},"3ff3b147-bb43-4ab2-a2c0-2dcd2dd3d798":{"type":"featured_collection","settings":{"collection":"use-outdoor"}}},"block_order":["16636709750ccb44c1-0","16636709750ccb44c1-1","3ff3b147-bb43-4ab2-a2c0-2dcd2dd3d798"],"settings":{"title":"","heading_size":"h1","image_ratio":"portrait","columns_desktop":3,"color_scheme":"accent-1","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":32,"padding_bottom":32,"padding_right":3,"padding_left":3}},"40680c4b-af78-4edb-b643-e6611ee3c8b5":{"type":"collection-list","disabled":true,"blocks":{"template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-0":{"type":"featured_collection","settings":{"collection":"bathroom"}},"template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-1":{"type":"featured_collection","settings":{"collection":"kitchen"}},"template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-2":{"type":"featured_collection","settings":{"collection":"elevation"}}},"block_order":["template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-0","template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-1","template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-2"],"settings":{"title":"Popular Collections","heading_size":"h1","image_ratio":"portrait","columns_desktop":3,"color_scheme":"background-2","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":60,"padding_bottom":36,"padding_right":5,"padding_left":5}},"90929e79-6fc6-4d02-8ad8-7b55643ad1a7":{"type":"multicolumn","disabled":true,"blocks":{"template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_2.png","title":"Kitchen | Backspalsh","text":"<p>We aim to make your kitchen space look and feel as close to you as possible in order for you to enjoy the time you spend in it.<\/p>","link_label":"View More","link":"shopify:\/\/collections\/kitchen"}},"template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_3.png","title":"Bathroom","text":"<p>We try our best to provide tiles that may refresh your mood every time you come home.<\/p>","link_label":"View More","link":"shopify:\/\/collections\/bathroom"}},"template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-0","template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-1","template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-2"],"settings":{"title":"Popular Collections","subtitle":"","heading_size":"h1","text_alignment":"left","image_width":"full","image_ratio":"square","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"01f37cb9-66df-49ab-8900-becbdb7547e3":{"type":"multicolumn","blocks":{"template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_7.png","title":"","text":"","link_label":"","link":""}},"template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_6.png","title":"","text":"","link_label":"","link":""}},"template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_8.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-0","template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-1","template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-2"],"settings":{"title":"We are at the Intersection of wrap-color Tile & Design","subtitle":"Branching out to your site.","heading_size":"h1","text_alignment":"center","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":24,"padding_bottom":24}},"166400053497a6bacf":{"type":"main-transparent-list-collections","blocks":{"81a868a7-f4b0-4c22-8ad0-b947a7ea8437":{"type":"featured_collection","settings":{"collection":"explore-new-arrivals","title":"New Arrivals"}},"1bc93e52-a33e-4fb6-9267-4151e6b2237f":{"type":"featured_collection","settings":{"collection":"marble","title":"Marble"}},"5716fedc-3ad3-4551-869c-0bec25cccaa5":{"type":"featured_collection","settings":{"collection":"explore-budget-friendly","title":"Budget Friendly"}},"6fc58bee-1c16-44ac-bcba-6e9a4b2a4758":{"type":"featured_collection","settings":{"collection":"stone","title":"Stone"}},"51eda4af-68d5-4263-b3c3-eac7bb07cb40":{"type":"featured_collection","settings":{"collection":"explore-trending-now","title":"Trending"}},"3641377d-9ead-4243-9270-1142de42b082":{"type":"featured_collection","settings":{"collection":"wood","title":"Wood-Look"}}},"block_order":["81a868a7-f4b0-4c22-8ad0-b947a7ea8437","1bc93e52-a33e-4fb6-9267-4151e6b2237f","5716fedc-3ad3-4551-869c-0bec25cccaa5","6fc58bee-1c16-44ac-bcba-6e9a4b2a4758","51eda4af-68d5-4263-b3c3-eac7bb07cb40","3641377d-9ead-4243-9270-1142de42b082"],"settings":{"heading":"Shop by Category"}},"c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1":{"type":"image-with-text","blocks":{"template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-0":{"type":"heading","settings":{"heading":"Trusted by a growing list of Architects, Interior Designers and Builders","heading_size":"h1"}},"template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-1":{"type":"text","settings":{"text":"<p>Backed by the incredible legacy team of Zoaib Ali & Co.<\/p>","text_style":"body"}},"template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-2":{"type":"button","settings":{"button_label":"","button_link":""}}},"block_order":["template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-0","template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-1","template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-2"],"settings":{"image":"shopify:\/\/shop_images\/Zatile_Banner_480db91c-b745-4357-8e51-71d6a77721ae.png","text_padding_type":"all","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-2","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}}},"order":["image_banner","16636709757b12aeba","40680c4b-af78-4edb-b643-e6611ee3c8b5","90929e79-6fc6-4d02-8ad8-7b55643ad1a7","01f37cb9-66df-49ab-8900-becbdb7547e3","166400053497a6bacf","c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "65a24ebc-aa45-4115-85d7-64570a6bdcb7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Visualize & Create Quality Spaces",
+            "heading_size": "h0"
+          }
+        },
+        "69460e34-ebb8-40db-8c0a-30926a72f2ae": {
+          "type": "text",
+          "settings": {
+            "text": "Pakistan's Tile & Design Hub",
+            "text_style": "body"
+          }
+        },
+        "3f2e641c-978a-4dbd-b98e-59336eb248fb": {
+          "type": "text",
+          "settings": {
+            "text": "Shop our extensive selection of wall and floor tiles.",
+            "text_style": "body"
+          }
+        },
+        "2c99a270-2094-4d69-985e-c8a7b840e3e6": {
+          "type": "text",
+          "settings": {
+            "text": "Everything in-stock, ready to ship",
+            "text_style": "body"
+          }
+        },
+        "4eae6cfa-3be1-4005-9ad2-434d73aaf13e": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Catalogue",
+            "button_link_1": "shopify://collections/all-tile",
+            "button_style_secondary_1": false,
+            "button_label_2": "About Us",
+            "button_link_2": "shopify://pages/about-us",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "65a24ebc-aa45-4115-85d7-64570a6bdcb7",
+        "69460e34-ebb8-40db-8c0a-30926a72f2ae",
+        "3f2e641c-978a-4dbd-b98e-59336eb248fb",
+        "2c99a270-2094-4d69-985e-c8a7b840e3e6",
+        "4eae6cfa-3be1-4005-9ad2-434d73aaf13e"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Zatile_Banner_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "16636709757b12aeba": {
+      "type": "collection-list",
+      "blocks": {
+        "16636709750ccb44c1-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bathroom"
+          }
+        },
+        "16636709750ccb44c1-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kitchen"
+          }
+        },
+        "3ff3b147-bb43-4ab2-a2c0-2dcd2dd3d798": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "use-outdoor"
+          }
+        }
+      },
+      "block_order": [
+        "16636709750ccb44c1-0",
+        "16636709750ccb44c1-1",
+        "3ff3b147-bb43-4ab2-a2c0-2dcd2dd3d798"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "padding_right": 3,
+        "padding_left": 3
+      }
+    },
+    "40680c4b-af78-4edb-b643-e6611ee3c8b5": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bathroom"
+          }
+        },
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kitchen"
+          }
+        },
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "elevation"
+          }
+        }
+      },
+      "block_order": [
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-0",
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-1",
+        "template--16374219047135__40680c4b-af78-4edb-b643-e6611ee3c8b5-1666768197092fac3a-2"
+      ],
+      "settings": {
+        "title": "Popular Collections",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 36,
+        "padding_right": 5,
+        "padding_left": 5
+      }
+    },
+    "90929e79-6fc6-4d02-8ad8-7b55643ad1a7": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_2.png",
+            "title": "Kitchen | Backspalsh",
+            "text": "<p>We aim to make your kitchen space look and feel as close to you as possible in order for you to enjoy the time you spend in it.</p>",
+            "link_label": "View More",
+            "link": "shopify://collections/kitchen"
+          }
+        },
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_3.png",
+            "title": "Bathroom",
+            "text": "<p>We try our best to provide tiles that may refresh your mood every time you come home.</p>",
+            "link_label": "View More",
+            "link": "shopify://collections/bathroom"
+          }
+        },
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-0",
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-1",
+        "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-2"
+      ],
+      "settings": {
+        "title": "Popular Collections",
+        "subtitle": "",
+        "heading_size": "h1",
+        "text_alignment": "left",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "01f37cb9-66df-49ab-8900-becbdb7547e3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_7.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_6.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_8.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-0",
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-1",
+        "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-2"
+      ],
+      "settings": {
+        "title": "We are at the Intersection of wrap-color Tile & Design",
+        "subtitle": "Branching out to your site.",
+        "heading_size": "h1",
+        "text_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "166400053497a6bacf": {
+      "type": "main-transparent-list-collections",
+      "blocks": {
+        "81a868a7-f4b0-4c22-8ad0-b947a7ea8437": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "explore-new-arrivals",
+            "title": "New Arrivals"
+          }
+        },
+        "1bc93e52-a33e-4fb6-9267-4151e6b2237f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marble",
+            "title": "Marble"
+          }
+        },
+        "5716fedc-3ad3-4551-869c-0bec25cccaa5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "explore-budget-friendly",
+            "title": "Budget Friendly"
+          }
+        },
+        "6fc58bee-1c16-44ac-bcba-6e9a4b2a4758": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stone",
+            "title": "Stone"
+          }
+        },
+        "51eda4af-68d5-4263-b3c3-eac7bb07cb40": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "explore-trending-now",
+            "title": "Trending"
+          }
+        },
+        "3641377d-9ead-4243-9270-1142de42b082": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wood",
+            "title": "Wood-Look"
+          }
+        }
+      },
+      "block_order": [
+        "81a868a7-f4b0-4c22-8ad0-b947a7ea8437",
+        "1bc93e52-a33e-4fb6-9267-4151e6b2237f",
+        "5716fedc-3ad3-4551-869c-0bec25cccaa5",
+        "6fc58bee-1c16-44ac-bcba-6e9a4b2a4758",
+        "51eda4af-68d5-4263-b3c3-eac7bb07cb40",
+        "3641377d-9ead-4243-9270-1142de42b082"
+      ],
+      "settings": {
+        "heading": "Shop by Category"
+      }
+    },
+    "c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trusted by a growing list of Architects, Interior Designers and Builders",
+            "heading_size": "h1"
+          }
+        },
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Backed by the incredible legacy team of Zoaib Ali & Co.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-0",
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-1",
+        "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Zatile_Banner_480db91c-b745-4357-8e51-71d6a77721ae.png",
+        "text_padding_type": "all",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "16636709757b12aeba",
+    "40680c4b-af78-4edb-b643-e6611ee3c8b5",
+    "90929e79-6fc6-4d02-8ad8-7b55643ad1a7",
+    "01f37cb9-66df-49ab-8900-becbdb7547e3",
+    "166400053497a6bacf",
+    "c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1"
+  ]
+}
