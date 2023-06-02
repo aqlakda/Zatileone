@@ -1,56 +1,7 @@
 {
   "sections": {
-    "4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "test",
-            "heading_size": "h1"
-          }
-        },
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-0",
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-1",
-        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/or612039.3.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "65a24ebc-aa45-4115-85d7-64570a6bdcb7": {
           "type": "heading",
@@ -417,7 +368,6 @@
     }
   },
   "order": [
-    "4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec",
     "image_banner",
     "16636709757b12aeba",
     "40680c4b-af78-4edb-b643-e6611ee3c8b5",
