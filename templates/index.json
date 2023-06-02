@@ -1,7 +1,56 @@
 {
   "sections": {
+    "4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "test",
+            "heading_size": "h1"
+          }
+        },
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-0",
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-1",
+        "template--16742540476639__4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec-1685687029b7c52722-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/or612039.3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "65a24ebc-aa45-4115-85d7-64570a6bdcb7": {
           "type": "heading",
@@ -35,10 +84,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Catalogue",
-            "button_link_1": "shopify://collections/all-tile",
+            "button_link_1": "shopify:\/\/collections\/all-tile",
             "button_style_secondary_1": false,
             "button_label_2": "About Us",
-            "button_link_2": "shopify://pages/about-us",
+            "button_link_2": "shopify:\/\/pages\/about-us",
             "button_style_secondary_2": false
           }
         }
@@ -51,7 +100,7 @@
         "4eae6cfa-3be1-4005-9ad2-434d73aaf13e"
       ],
       "settings": {
-        "image": "shopify://shop_images/Zatile_Banner_2.png",
+        "image": "shopify:\/\/shop_images\/Zatile_Banner_2.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -156,28 +205,26 @@
         "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_2.png",
             "title": "Kitchen | Backspalsh",
-            "text": "<p>We aim to make your kitchen space look and feel as close to you as possible in order for you to enjoy the time you spend in it.</p>",
+            "text": "<p>We aim to make your kitchen space look and feel as close to you as possible in order for you to enjoy the time you spend in it.<\/p>",
             "link_label": "View More",
-            "link": "shopify://collections/kitchen"
+            "link": "shopify:\/\/collections\/kitchen"
           }
         },
         "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Hello_we_re_Zatile_Pakistan_s_Tile_Design_Hub_3.png",
             "title": "Bathroom",
-            "text": "<p>We try our best to provide tiles that may refresh your mood every time you come home.</p>",
+            "text": "<p>We try our best to provide tiles that may refresh your mood every time you come home.<\/p>",
             "link_label": "View More",
-            "link": "shopify://collections/bathroom"
+            "link": "shopify:\/\/collections\/bathroom"
           }
         },
         "template--16374219047135__90929e79-6fc6-4d02-8ad8-7b55643ad1a7-166676845349fa6fe2-2": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -213,7 +260,7 @@
         "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_7.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_7.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -223,7 +270,7 @@
         "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_6.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -233,7 +280,7 @@
         "template--16374219047135__01f37cb9-66df-49ab-8900-becbdb7547e3-16668720268f23ee38-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_8.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -336,7 +383,7 @@
         "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Backed by the incredible legacy team of Zoaib Ali & Co.</p>",
+            "text": "<p>Backed by the incredible legacy team of Zoaib Ali & Co.<\/p>",
             "text_style": "body"
           }
         },
@@ -354,7 +401,7 @@
         "template--16374219047135__c1b3dfe8-8ae4-4bd2-a902-70e73b3dcff1-1667022842b3981a07-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Zatile_Banner_480db91c-b745-4357-8e51-71d6a77721ae.png",
+        "image": "shopify:\/\/shop_images\/Zatile_Banner_480db91c-b745-4357-8e51-71d6a77721ae.png",
         "text_padding_type": "all",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -370,6 +417,7 @@
     }
   },
   "order": [
+    "4ef55cbe-31dc-4bfd-930f-9ef8f3a0d8ec",
     "image_banner",
     "16636709757b12aeba",
     "40680c4b-af78-4edb-b643-e6611ee3c8b5",

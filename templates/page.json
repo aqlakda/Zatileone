@@ -2,7 +2,8 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+      }
     },
     "26f490b3-d67d-4756-8b34-3a8f551c63fa": {
       "type": "page-title",
@@ -21,7 +22,7 @@
         "96485b36-1cd1-461b-a3b1-6152720e9958": {
           "type": "text",
           "settings": {
-            "text": "<p>Zatile is a speciality e-commerce division of Zoaib Ali & Co., a tile retailer, and stockist since the 1970s.</p><p>We cater to our customers via an online tile and virtual design studio.</p><p>Our network includes homeowners, builders, architects, and interior designers to visualize our wide selection of tiles.</p>",
+            "text": "<p>Zatile is a speciality e-commerce division of Zoaib Ali & Co., a tile retailer, and stockist since the 1970s.<\/p><p>We cater to our customers via an online tile and virtual design studio.<\/p><p>Our network includes homeowners, builders, architects, and interior designers to visualize our wide selection of tiles.<\/p>",
             "text_style": "body"
           }
         },
@@ -29,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zoaib Ali & Co.",
-            "button_link": "shopify://pages/zoaib-ali-co-about-us"
+            "button_link": "shopify:\/\/pages\/zoaib-ali-co-about-us"
           }
         }
       },
@@ -38,7 +39,7 @@
         "template--16374219145439__1e03e864-9f30-4910-9a9d-f318d282f253-1668158483425a6cdb-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Currect_trend.jpg",
+        "image": "shopify:\/\/shop_images\/Currect_trend.jpg",
         "text_padding_type": "all",
         "height": "small",
         "desktop_image_width": "medium",
